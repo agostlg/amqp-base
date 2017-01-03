@@ -16,11 +16,11 @@
     ],
 
     "require": {
-        "symfony/yaml": "*",
-        "symfony/config": "*"
+        "symfony/yaml": "2.*|3.*",
+        "symfony/config": "2.6.*|3.*"
     },
     "require-dev": {
-        "symfony/dependency-injection": "2.*",
+        "symfony/dependency-injection": "2.*|3.*",
         "phpunit/phpunit": "4.6.*"
     },
     "autoload": {
