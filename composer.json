@@ -1,5 +1,5 @@
 {
-    "name":         "c-datculescu/amqp-base",
+    "name":         "agostlg/amqp-base",
     "description":  "Allows easy declaration and management of complex AMQP configurations",
     "keywords":     ["amqp", "RabbitMQ", "message-bus"],
     "type":         "library",
